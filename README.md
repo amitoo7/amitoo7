@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Everyone, I am a DevOps Advocate.<br> I am working on IDP(Internal Developer Portal.<br>I am looking to collaborate on the CNCF projects.
+Hi Everyone, I am a DevOps Advocate.<br> I am working on IDP(Internal Developer Platform).<br>I am looking to collaborate on the CNCF projects.
 
 
 ## 🌐 Socials:
